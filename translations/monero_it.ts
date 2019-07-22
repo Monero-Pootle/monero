@@ -1402,7 +1402,7 @@ Questa transazione verrà sbloccata al blocco %llu, in approssimativamente %s gi
     <message>
         <location filename="../src/simplewallet/simplewallet.cpp" line="1892"/>
         <source>Invalid key image or txid</source>
-        <translation type="unfinished"></translation>
+        <translation>chiave invalida .. (test)</translation>
     </message>
     <message>
         <location filename="../src/simplewallet/simplewallet.cpp" line="1901"/>
